@@ -27,3 +27,6 @@ The database contains 3 tables:
 
 ## Conclusion
 This checkpoint helped me practice SQL queries like SELECT, WHERE, GROUP BY, HAVING and JOIN.
+
+## Author
+**Godfred Appiah Baah**
